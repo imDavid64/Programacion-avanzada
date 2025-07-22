@@ -1,42 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\maria\\OneDrive - Universidad Fid\u00E9litas\\Fidelitas\\Cuatri 6 Mayo\\Programacion avanzada\\AhorcadoMVC\\",
+  "WorkspaceRootPath": "D:\\VISUAL STUDIO 2022 PROJECTS LOCAL\\ProyectoPrograAvanzada\\Programacion-avanzada\\AhorcadoMVC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{69986B67-F8F9-4BB2-9A69-277200A7373F}|AhorcadoMVC.csproj|c:\\users\\maria\\onedrive - universidad fid\u00E9litas\\fidelitas\\cuatri 6 mayo\\programacion avanzada\\ahorcadomvc\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{69986B67-F8F9-4BB2-9A69-277200A7373F}|AhorcadoMVC.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{69986B67-F8F9-4BB2-9A69-277200A7373F}|AhorcadoMVC.csproj|d:\\visual studio 2022 projects local\\proyectoprograavanzada\\programacion-avanzada\\ahorcadomvc\\controllers\\partidacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69986B67-F8F9-4BB2-9A69-277200A7373F}|AhorcadoMVC.csproj|solutionrelative:controllers\\partidacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{69986B67-F8F9-4BB2-9A69-277200A7373F}|AhorcadoMVC.csproj|c:\\users\\maria\\onedrive - universidad fid\u00E9litas\\fidelitas\\cuatri 6 mayo\\programacion avanzada\\ahorcadomvc\\models\\jugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{69986B67-F8F9-4BB2-9A69-277200A7373F}|AhorcadoMVC.csproj|solutionrelative:models\\jugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{69986B67-F8F9-4BB2-9A69-277200A7373F}|AhorcadoMVC.csproj|D:\\VISUAL STUDIO 2022 PROJECTS LOCAL\\ProyectoPrograAvanzada\\Programacion-avanzada\\AhorcadoMVC\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{69986B67-F8F9-4BB2-9A69-277200A7373F}|AhorcadoMVC.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{69986B67-F8F9-4BB2-9A69-277200A7373F}|AhorcadoMVC.csproj|c:\\users\\maria\\onedrive - universidad fid\u00E9litas\\fidelitas\\cuatri 6 mayo\\programacion avanzada\\ahorcadomvc\\models\\palabra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{69986B67-F8F9-4BB2-9A69-277200A7373F}|AhorcadoMVC.csproj|solutionrelative:models\\palabra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{69986B67-F8F9-4BB2-9A69-277200A7373F}|AhorcadoMVC.csproj|c:\\users\\maria\\onedrive - universidad fid\u00E9litas\\fidelitas\\cuatri 6 mayo\\programacion avanzada\\ahorcadomvc\\models\\partida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{69986B67-F8F9-4BB2-9A69-277200A7373F}|AhorcadoMVC.csproj|solutionrelative:models\\partida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{69986B67-F8F9-4BB2-9A69-277200A7373F}|AhorcadoMVC.csproj|c:\\users\\maria\\onedrive - universidad fid\u00E9litas\\fidelitas\\cuatri 6 mayo\\programacion avanzada\\ahorcadomvc\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{69986B67-F8F9-4BB2-9A69-277200A7373F}|AhorcadoMVC.csproj|solutionrelative:web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{69986B67-F8F9-4BB2-9A69-277200A7373F}|AhorcadoMVC.csproj|c:\\users\\maria\\onedrive - universidad fid\u00E9litas\\fidelitas\\cuatri 6 mayo\\programacion avanzada\\ahorcadomvc\\views\\partidas.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{69986B67-F8F9-4BB2-9A69-277200A7373F}|AhorcadoMVC.csproj|solutionrelative:views\\partidas.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{69986B67-F8F9-4BB2-9A69-277200A7373F}|AhorcadoMVC.csproj|c:\\users\\maria\\onedrive - universidad fid\u00E9litas\\fidelitas\\cuatri 6 mayo\\programacion avanzada\\ahorcadomvc\\views\\palabras.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{69986B67-F8F9-4BB2-9A69-277200A7373F}|AhorcadoMVC.csproj|solutionrelative:views\\palabras.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{69986B67-F8F9-4BB2-9A69-277200A7373F}|AhorcadoMVC.csproj|c:\\users\\maria\\onedrive - universidad fid\u00E9litas\\fidelitas\\cuatri 6 mayo\\programacion avanzada\\ahorcadomvc\\views\\jugadores.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{69986B67-F8F9-4BB2-9A69-277200A7373F}|AhorcadoMVC.csproj|solutionrelative:views\\jugadores.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{69986B67-F8F9-4BB2-9A69-277200A7373F}|AhorcadoMVC.csproj|c:\\users\\maria\\onedrive - universidad fid\u00E9litas\\fidelitas\\cuatri 6 mayo\\programacion avanzada\\ahorcadomvc\\views\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{69986B67-F8F9-4BB2-9A69-277200A7373F}|AhorcadoMVC.csproj|solutionrelative:views\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{69986B67-F8F9-4BB2-9A69-277200A7373F}|AhorcadoMVC.csproj|d:\\visual studio 2022 projects local\\proyectoprograavanzada\\programacion-avanzada\\ahorcadomvc\\models\\nuevapartidaviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69986B67-F8F9-4BB2-9A69-277200A7373F}|AhorcadoMVC.csproj|solutionrelative:models\\nuevapartidaviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,119 +30,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Web.config",
-              "DocumentMoniker": "C:\\Users\\maria\\OneDrive - Universidad Fid\u00E9litas\\Fidelitas\\Cuatri 6 Mayo\\Programacion avanzada\\AhorcadoMVC\\Web.config",
-              "RelativeDocumentMoniker": "Web.config",
-              "ToolTip": "C:\\Users\\maria\\OneDrive - Universidad Fid\u00E9litas\\Fidelitas\\Cuatri 6 Mayo\\Programacion avanzada\\AhorcadoMVC\\Web.config",
-              "RelativeToolTip": "Web.config",
-              "ViewState": "AgIAADMAAAAAAAAAAAAiwDwAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2025-06-12T18:38:42.584Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\maria\\OneDrive - Universidad Fid\u00E9litas\\Fidelitas\\Cuatri 6 Mayo\\Programacion avanzada\\AhorcadoMVC\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\maria\\OneDrive - Universidad Fid\u00E9litas\\Fidelitas\\Cuatri 6 Mayo\\Programacion avanzada\\AhorcadoMVC\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAgwAoAAAA1AAAAAAAAAA==",
+              "Title": "PartidaController.cs",
+              "DocumentMoniker": "D:\\VISUAL STUDIO 2022 PROJECTS LOCAL\\ProyectoPrograAvanzada\\Programacion-avanzada\\AhorcadoMVC\\Controllers\\PartidaController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PartidaController.cs",
+              "ToolTip": "D:\\VISUAL STUDIO 2022 PROJECTS LOCAL\\ProyectoPrograAvanzada\\Programacion-avanzada\\AhorcadoMVC\\Controllers\\PartidaController.cs",
+              "RelativeToolTip": "Controllers\\PartidaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-12T18:35:32.117Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Partida.cs",
-              "DocumentMoniker": "C:\\Users\\maria\\OneDrive - Universidad Fid\u00E9litas\\Fidelitas\\Cuatri 6 Mayo\\Programacion avanzada\\AhorcadoMVC\\Models\\Partida.cs",
-              "RelativeDocumentMoniker": "Models\\Partida.cs",
-              "ToolTip": "C:\\Users\\maria\\OneDrive - Universidad Fid\u00E9litas\\Fidelitas\\Cuatri 6 Mayo\\Programacion avanzada\\AhorcadoMVC\\Models\\Partida.cs",
-              "RelativeToolTip": "Models\\Partida.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-12T18:34:37.06Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Jugador.cs",
-              "DocumentMoniker": "C:\\Users\\maria\\OneDrive - Universidad Fid\u00E9litas\\Fidelitas\\Cuatri 6 Mayo\\Programacion avanzada\\AhorcadoMVC\\Models\\Jugador.cs",
-              "RelativeDocumentMoniker": "Models\\Jugador.cs",
-              "ToolTip": "C:\\Users\\maria\\OneDrive - Universidad Fid\u00E9litas\\Fidelitas\\Cuatri 6 Mayo\\Programacion avanzada\\AhorcadoMVC\\Models\\Jugador.cs",
-              "RelativeToolTip": "Models\\Jugador.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAgAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-12T18:34:03.39Z",
+              "WhenOpened": "2025-07-22T04:57:28.056Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Palabra.cs",
-              "DocumentMoniker": "C:\\Users\\maria\\OneDrive - Universidad Fid\u00E9litas\\Fidelitas\\Cuatri 6 Mayo\\Programacion avanzada\\AhorcadoMVC\\Models\\Palabra.cs",
-              "RelativeDocumentMoniker": "Models\\Palabra.cs",
-              "ToolTip": "C:\\Users\\maria\\OneDrive - Universidad Fid\u00E9litas\\Fidelitas\\Cuatri 6 Mayo\\Programacion avanzada\\AhorcadoMVC\\Models\\Palabra.cs",
-              "RelativeToolTip": "Models\\Palabra.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAjAAAAAAAAAA==",
+              "Title": "NuevaPartidaViewModel.cs",
+              "DocumentMoniker": "D:\\VISUAL STUDIO 2022 PROJECTS LOCAL\\ProyectoPrograAvanzada\\Programacion-avanzada\\AhorcadoMVC\\Models\\NuevaPartidaViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\NuevaPartidaViewModel.cs",
+              "ToolTip": "D:\\VISUAL STUDIO 2022 PROJECTS LOCAL\\ProyectoPrograAvanzada\\Programacion-avanzada\\AhorcadoMVC\\Models\\NuevaPartidaViewModel.cs",
+              "RelativeToolTip": "Models\\NuevaPartidaViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-12T18:33:09.284Z",
+              "WhenOpened": "2025-07-22T04:56:56.067Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Partidas.cshtml",
-              "DocumentMoniker": "C:\\Users\\maria\\OneDrive - Universidad Fid\u00E9litas\\Fidelitas\\Cuatri 6 Mayo\\Programacion avanzada\\AhorcadoMVC\\Views\\Partidas.cshtml",
-              "RelativeDocumentMoniker": "Views\\Partidas.cshtml",
-              "ToolTip": "C:\\Users\\maria\\OneDrive - Universidad Fid\u00E9litas\\Fidelitas\\Cuatri 6 Mayo\\Programacion avanzada\\AhorcadoMVC\\Views\\Partidas.cshtml",
-              "RelativeToolTip": "Views\\Partidas.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\VISUAL STUDIO 2022 PROJECTS LOCAL\\ProyectoPrograAvanzada\\Programacion-avanzada\\AhorcadoMVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\VISUAL STUDIO 2022 PROJECTS LOCAL\\ProyectoPrograAvanzada\\Programacion-avanzada\\AhorcadoMVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACcAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-12T18:31:42.641Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Palabras.cshtml",
-              "DocumentMoniker": "C:\\Users\\maria\\OneDrive - Universidad Fid\u00E9litas\\Fidelitas\\Cuatri 6 Mayo\\Programacion avanzada\\AhorcadoMVC\\Views\\Palabras.cshtml",
-              "RelativeDocumentMoniker": "Views\\Palabras.cshtml",
-              "ToolTip": "C:\\Users\\maria\\OneDrive - Universidad Fid\u00E9litas\\Fidelitas\\Cuatri 6 Mayo\\Programacion avanzada\\AhorcadoMVC\\Views\\Palabras.cshtml",
-              "RelativeToolTip": "Views\\Palabras.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-12T18:31:31.644Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Jugadores.cshtml",
-              "DocumentMoniker": "C:\\Users\\maria\\OneDrive - Universidad Fid\u00E9litas\\Fidelitas\\Cuatri 6 Mayo\\Programacion avanzada\\AhorcadoMVC\\Views\\Jugadores.cshtml",
-              "RelativeDocumentMoniker": "Views\\Jugadores.cshtml",
-              "ToolTip": "C:\\Users\\maria\\OneDrive - Universidad Fid\u00E9litas\\Fidelitas\\Cuatri 6 Mayo\\Programacion avanzada\\AhorcadoMVC\\Views\\Jugadores.cshtml",
-              "RelativeToolTip": "Views\\Jugadores.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-12T18:31:21.678Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Home.cshtml",
-              "DocumentMoniker": "C:\\Users\\maria\\OneDrive - Universidad Fid\u00E9litas\\Fidelitas\\Cuatri 6 Mayo\\Programacion avanzada\\AhorcadoMVC\\Views\\Home.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home.cshtml",
-              "ToolTip": "C:\\Users\\maria\\OneDrive - Universidad Fid\u00E9litas\\Fidelitas\\Cuatri 6 Mayo\\Programacion avanzada\\AhorcadoMVC\\Views\\Home.cshtml",
-              "RelativeToolTip": "Views\\Home.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-12T18:31:04.734Z",
+              "WhenOpened": "2025-07-17T03:40:41.429Z",
               "EditorCaption": ""
             }
           ]
