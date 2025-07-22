@@ -128,6 +128,7 @@
     <Compile Include="App_Start\FilterConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="Controllers\HomeController.cs" />
+    <Compile Include="Controllers\PartidaController.cs" />
     <Compile Include="Data\ApplicationDbContext.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
@@ -135,6 +136,7 @@
     <Compile Include="Models\Partida.cs" />
     <Compile Include="Models\Jugador.cs" />
     <Compile Include="Models\Palabra.cs" />
+    <Compile Include="Models\NuevaPartidaViewModel.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -155,14 +157,45 @@
     <Content Include="Content\bootstrap.rtl.css" />
     <Content Include="Content\bootstrap.rtl.min.css" />
     <Content Include="favicon.ico" />
+    <Content Include="Resources\Fonts\Winky_Rough\OFL.txt" />
+    <Content Include="Resources\Fonts\Winky_Rough\README.txt" />
     <Content Include="Global.asax" />
     <Content Include="Content\Site.css" />
+    <Content Include="Resources\Icons\bootstrap-icons.css" />
+    <Content Include="Resources\Icons\bootstrap-icons.min.css" />
+    <Content Include="Resources\Img\rayas-lapiz3.jpg" />
+    <Content Include="Resources\Img\rayas-lapiz2.png" />
+    <Content Include="Resources\Img\estrellas.png" />
+    <Content Include="Resources\Img\rayas-lapiz.jpg" />
+    <Content Include="Resources\Img\papel-arrugado.png" />
+    <Content Include="Resources\Img\madera.jpg" />
+    <Content Include="Resources\Img\pizarra-tiza.jpg" />
     <Content Include="Scripts\bootstrap.bundle.js" />
     <Content Include="Scripts\bootstrap.bundle.min.js" />
     <Content Include="Scripts\bootstrap.esm.js" />
     <Content Include="Scripts\bootstrap.esm.min.js" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
+    <Content Include="Resources\Fonts\Winky_Rough\static\WinkyRough-Black.ttf" />
+    <Content Include="Resources\Fonts\Winky_Rough\static\WinkyRough-BlackItalic.ttf" />
+    <Content Include="Resources\Fonts\Winky_Rough\static\WinkyRough-Bold.ttf" />
+    <Content Include="Resources\Fonts\Winky_Rough\static\WinkyRough-BoldItalic.ttf" />
+    <Content Include="Resources\Fonts\Winky_Rough\static\WinkyRough-ExtraBold.ttf" />
+    <Content Include="Resources\Fonts\Winky_Rough\static\WinkyRough-ExtraBoldItalic.ttf" />
+    <Content Include="Resources\Fonts\Winky_Rough\static\WinkyRough-Italic.ttf" />
+    <Content Include="Resources\Fonts\Winky_Rough\static\WinkyRough-Light.ttf" />
+    <Content Include="Resources\Fonts\Winky_Rough\static\WinkyRough-LightItalic.ttf" />
+    <Content Include="Resources\Fonts\Winky_Rough\static\WinkyRough-Medium.ttf" />
+    <Content Include="Resources\Fonts\Winky_Rough\static\WinkyRough-MediumItalic.ttf" />
+    <Content Include="Resources\Fonts\Winky_Rough\static\WinkyRough-Regular.ttf" />
+    <Content Include="Resources\Fonts\Winky_Rough\static\WinkyRough-SemiBold.ttf" />
+    <Content Include="Resources\Fonts\Winky_Rough\static\WinkyRough-SemiBoldItalic.ttf" />
+    <Content Include="Resources\Fonts\Winky_Rough\WinkyRough-Italic-VariableFont_wght.ttf" />
+    <Content Include="Resources\Fonts\Winky_Rough\WinkyRough-VariableFont_wght.ttf" />
+    <Content Include="Resources\Icons\bootstrap-icons.json" />
+    <Content Include="Resources\Icons\bootstrap-icons.scss" />
+    <Content Include="Resources\Icons\fonts\bootstrap-icons.woff" />
+    <Content Include="Resources\Icons\fonts\bootstrap-icons.woff2" />
     <None Include="Scripts\jquery-3.7.0.intellisense.js" />
     <Content Include="Scripts\jquery-3.7.0.js" />
     <Content Include="Scripts\jquery-3.7.0.min.js" />
@@ -174,6 +207,7 @@
     <Content Include="Scripts\jquery.validate.unobtrusive.js" />
     <Content Include="Scripts\jquery.validate.unobtrusive.min.js" />
     <Content Include="Scripts\modernizr-2.8.3.js" />
+    <Content Include="Scripts\miscript.js" />
     <Content Include="Web.config" />
     <Content Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>

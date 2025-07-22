@@ -2,32 +2,72 @@
     ViewBag.Title = "Home Page";
 }
 
+@model AhorcadoMVC.Models.NuevaPartidaViewModel
+
 <main>
     <section class="row" aria-labelledby="aspnetTitle">
-        <h1 id="title">ASP.NET</h1>
-        <p class="lead">ASP.NET is a free web framework for building great Web sites and Web applications using HTML, CSS and JavaScript.</p>
-        <p><a href="https://asp.net" class="btn btn-primary btn-md">Learn more &raquo;</a></p>
+        <h1 id="title">Bienvenido a [Nombre]</h1>
+    </section>
+    <section>
+        <p>
+            <br />Este es el clásico juego del Ahorcado, en el que tu objetivo será adivinar una palabra secreta.
+            <br />Para lograrlo, deberás colocar letra por letra hasta descubrirla por completo.
+            <br />Cada intento incorrecto dibujará una parte del ahorcado, así que piensa bien antes de elegir.
+        </p>
+        <p>
+            <br />Pon a prueba tu vocabulario, tu lógica y tu memoria mientras te diviertes con este entretenido desafío.
+            <br />Puedes jugar las veces que quieras y mejorar tus habilidades con cada partida,
+            <br />podrá ir sumar puntos  con cada partida ganada, de lo contrario se te restarán puntos.
+        </p>
+        <p>
+            <br />¿Podrás descubrir la palabra antes de que se te acabe el tiempo? ¡Haz clic en Nueva Partida y descúbrelo!
+        </p>
     </section>
 
-    <div class="row">
-        <section class="col-md-4" aria-labelledby="gettingStartedTitle">
-            <h2 id="gettingStartedTitle">Getting started</h2>
-            <p>
-                ASP.NET MVC gives you a powerful, patterns-based way to build dynamic websites that
-                enables a clean separation of concerns and gives you full control over markup
-                for enjoyable, agile development.
-            </p>
-            <p><a class="btn btn-outline-dark" href="https://go.microsoft.com/fwlink/?LinkId=301865">Learn more &raquo;</a></p>
-        </section>
-        <section class="col-md-4" aria-labelledby="librariesTitle">
-            <h2 id="librariesTitle">Get more libraries</h2>
-            <p>NuGet is a free Visual Studio extension that makes it easy to add, remove, and update libraries and tools in Visual Studio projects.</p>
-            <p><a class="btn btn-outline-dark" href="https://go.microsoft.com/fwlink/?LinkId=301866">Learn more &raquo;</a></p>
-        </section>
-        <section class="col-md-4" aria-labelledby="hostingTitle">
-            <h2 id="hostingTitle">Web Hosting</h2>
-            <p>You can easily find a web hosting company that offers the right mix of features and price for your applications.</p>
-            <p><a class="btn btn-outline-dark" href="https://go.microsoft.com/fwlink/?LinkId=301867">Learn more &raquo;</a></p>
-        </section>
-    </div>
+    <section>
+        <a class="btn-nuevaPartida" id="btnNuevaPartida" href="#">Nueva Partida</a>
+    </section>
+
+    <section class="display-newrun" id="display-newrun">
+        <div class="form-newrun">
+            <div class="head-newrun">
+                <span class="title-newrun">Nueva Partida</span>
+                <i id="btnCloseXNewRun" class="bi bi-x"></i>
+            </div>
+            <div class="input-newrun">
+                @using (Html.BeginForm("Crear", "Partida", FormMethod.Post))
+                {
+                    <div class="input-div">
+                        @Html.LabelFor(m => m.Identificacion, "Identificación")
+                        @Html.TextBoxFor(m => m.Identificacion, new { id = "identificacion-newrun", required = "required" })
+                        @Html.ValidationMessageFor(m => m.Identificacion)
+                    </div>
+
+                    <div class="input-div">
+                        @Html.LabelFor(m => m.Nombre, "Nombre")
+                        @Html.TextBoxFor(m => m.Nombre, new { id = "nombre-user-newrun", required = "required" })
+                        @Html.ValidationMessageFor(m => m.Nombre)
+                    </div>
+
+                    <div class="btns-newrun">
+                        <div>
+                            <div>
+                                <button type="submit" class="btn-start-run" id="btn-start-run">Iniciar Partida</button>
+                            </div>
+                        </div>
+                        <div>
+                            <div>
+                                <a class="btnCloseNewRun" id="btnCloseNewRun" href="#">Cerrar</a>
+                            </div>
+                        </div>
+                    </div>
+                }
+            </div>
+        </div>
+    </section>
+
+    <!--Script para Abrir y Cerrar Ventana Emergente-->
+    @section Scripts {
+        <script src="/Scripts/miscript.js"></script>
+    }
 </main>
