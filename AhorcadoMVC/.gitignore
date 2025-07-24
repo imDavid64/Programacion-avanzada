@@ -1,0 +1,19 @@
+# Archivos del sistema de Visual Studio
+.vs/
+*.user
+*.suo
+*.cache
+*.dbmdl
+
+# Build results
+bin/
+obj/
+
+# Archivos temporales
+*.log
+*.tmp
+*.vspscc
+*.vssscc
+
+# Archivos de configuración local
+*.local.json

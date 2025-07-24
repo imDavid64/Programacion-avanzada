@@ -3,12 +3,12 @@ using AhorcadoMVC.Models;
 
 namespace AhorcadoMVC.Data
 {
-    public class ApplicationDbContext : DbContext
+    public class AppDbContext : DbContext
     {
-        public ApplicationDbContext() : base("DefaultConnection") { }
+        public AppDbContext() : base("DefaultConnection") { }
 
+        public DbSet<Usuario> Usuarios { get; set; }
         public DbSet<Palabra> Palabras { get; set; }
-        public DbSet<Usuario> Jugadores { get; set; }
         public DbSet<Partida> Partidas { get; set; }
     }
 }
