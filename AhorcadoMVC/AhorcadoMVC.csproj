@@ -127,6 +127,7 @@
     <Compile Include="App_Start\BundleConfig.cs" />
     <Compile Include="App_Start\FilterConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
+    <Compile Include="Controllers\UsuarioController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\PartidaController.cs" />
     <Compile Include="Data\ApplicationDbContext.cs" />
@@ -227,6 +228,7 @@
     <Content Include="Views\Jugadores.cshtml" />
     <Content Include="Views\Palabras.cshtml" />
     <Content Include="Views\Partidas.cshtml" />
+    <Content Include="Views\Usuario\Index.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
