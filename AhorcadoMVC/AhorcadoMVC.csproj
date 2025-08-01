@@ -135,6 +135,7 @@
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
     <Compile Include="Models\AppDbContext.cs" />
+    <Compile Include="Models\Nivel.cs" />
     <Compile Include="Models\JugarPartidaViewModel.cs" />
     <Compile Include="Models\Partida.cs" />
     <Compile Include="Models\Jugador.cs" />
